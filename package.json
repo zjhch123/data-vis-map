@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Another new web app",
+  "main": "./src/App.js",
+  "scripts": {
+    "build": "emiya-scripts build",
+    "dev": "emiya-scripts dev",
+    "eject": "emiya-scripts eject",
+    "lint": "eslint -c .eslintrc.js ./src --ext .js --ignore-path .eslintignore"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "emiya-scripts": "^3.3.0"
+  },
+  "dependencies": {
+    "d3": "^5.16.0",
+    "leaflet": "^1.6.0"
+  }
+}
