@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "map-data-vis",
   "version": "1.0.0",
   "description": "Another new web app",
   "main": "./src/App.js",
